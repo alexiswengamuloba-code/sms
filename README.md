@@ -184,8 +184,12 @@
 <div class="container">
     <header>
         <h1>VENTE D’UNITÉS AIRTEL MONEY CHEZ ALEXIS</h1>
-        <img src="https://github.com/user-attachments/assets/544faacf-037d-48db-91b0-343ccb49273e" />
-
+        <img
+  src="https://github.com/user-attachments/assets/3f80896f-9d57-496c-94b1-ae0516a248f2"
+  width="300"
+  style="height:auto;"
+  alt="photo"
+/>
     <div class="intro">
         Si tu veux qu’Alexis t’envoie des méga, des unités, des minutes ou des SMS, sois prêt à payer, car ce travail n’est pas gratuit.
     </div>
