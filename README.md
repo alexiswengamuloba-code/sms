@@ -320,3 +320,6 @@ Numéro du client : ${numeroClient}`;
 
 </body>
 </html>
+
+<img width="1200" height="1197" alt="1770539631886927993265508064062" src="https://github.com/user-attachments/assets/544faacf-037d-48db-91b0-343ccb49273e" />
+
