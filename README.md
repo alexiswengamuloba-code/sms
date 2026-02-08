@@ -186,7 +186,7 @@
         <h1>VENTE D’UNITÉS AIRTEL MONEY CHEZ ALEXIS</h1>
         <img
   src="https://github.com/user-attachments/assets/3f80896f-9d57-496c-94b1-ae0516a248f2"
-  width="300"
+  width="200"
   style="height:auto;"
   alt="photo"
 />
