@@ -184,8 +184,7 @@
 <div class="container">
     <header>
         <h1>VENTE D’UNITÉS AIRTEL MONEY CHEZ ALEXIS</h1>
-        <img src="image/airtel.png" class="logo-airtel" alt="Airtel">
-    </header>
+        <img src="https://github.com/user-attachments/assets/544faacf-037d-48db-91b0-343ccb49273e" />
 
     <div class="intro">
         Si tu veux qu’Alexis t’envoie des méga, des unités, des minutes ou des SMS, sois prêt à payer, car ce travail n’est pas gratuit.
@@ -321,5 +320,5 @@ Numéro du client : ${numeroClient}`;
 </body>
 </html>
 
-<img width="1200" height="1197" alt="1770539631886927993265508064062" src="https://github.com/user-attachments/assets/544faacf-037d-48db-91b0-343ccb49273e" />
+<img width="1200" height="1197" alt="1770539631886927993265508064062" 
 
