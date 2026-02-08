@@ -320,5 +320,3 @@ Numéro du client : ${numeroClient}`;
 </body>
 </html>
 
-<img width="1200" height="1197" alt="1770539631886927993265508064062" 
-
